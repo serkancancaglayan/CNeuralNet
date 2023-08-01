@@ -3,11 +3,14 @@ CNeuralNet is a neural network library implemented from scratch in C for image c
 The neural network architecture includes fully connected layers with customizable activation functions, and it uses the backpropagation algorithm for training.
 
 
-Features
+# Features
 
   -Fully connected neural network with customizable architecture.
+  
   -Activation functions: Sigmoid and Softmax.
+  
   -Backpropagation algorithm for training.
+  
   -Efficient and optimized C implementation.
 
 
