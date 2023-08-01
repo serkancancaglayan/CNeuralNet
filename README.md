@@ -1,10 +1,3 @@
-# CNeuralNet
-CNeuralNet is a neural network library implemented from scratch in C.
-
-
-# CNeuralNet
-
-# Description
 
 CNeuralNet is a neural network library implemented from scratch in C for image classification tasks using the MNIST dataset. The library provides tools to build, train, and evaluate neural networks, and it is optimized for efficient performance.
 The neural network architecture includes fully connected layers with customizable activation functions, and it uses the backpropagation algorithm for training.
